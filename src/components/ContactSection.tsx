@@ -30,7 +30,7 @@ const ContactSection = () => {
       icon: Download,
       title: 'Download Resume',
       content: 'Resume Link',
-      link: '/CV_Rahul_Sharma.pdf',
+      link: 'CV_Rahul_Sharma.pdf',
       color: 'text-purple-500'
     }
   ];
