@@ -123,7 +123,7 @@ const ResumeSection = () => {
         {/* Download CV Button */}
          <div className="text-center animate-fade-in">
           <a
-            href="https://github.com/RahulSharmaAnalyst/RahulSharmaAnalyst/blob/451b721b3c87fe3f344d8972a44328ba8a1bf36d/CV_Rahul_Sharma.pdf"
+            href="CV_Rahul_Sharma.pdf"
             download
             className="inline-flex items-center bg-primary hover:bg-primary/90 text-primary-foreground px-12 py-6 rounded-full text-lg font-semibold transition-all duration-300 hover:scale-105"
           >
